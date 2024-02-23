@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Reactt/static/css/main.433bcc56.css",
+    "main.js": "/E-commerce-Reactt/static/js/main.ad49f081.js",
+    "index.html": "/E-commerce-Reactt/index.html",
+    "main.433bcc56.css.map": "/E-commerce-Reactt/static/css/main.433bcc56.css.map",
+    "main.ad49f081.js.map": "/E-commerce-Reactt/static/js/main.ad49f081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.433bcc56.css",
+    "static/js/main.ad49f081.js"
+  ]
+}
